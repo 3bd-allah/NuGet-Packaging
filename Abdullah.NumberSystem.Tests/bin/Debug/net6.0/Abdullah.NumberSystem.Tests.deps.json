@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Abdullah.NumberSystem.Tests/1.0.0": {
+        "dependencies": {
+          "Abdullah.NumberSystem": "1.0.0"
+        },
+        "runtime": {
+          "Abdullah.NumberSystem.Tests.dll": {}
+        }
+      },
+      "Abdullah.NumberSystem/1.0.0": {
+        "runtime": {
+          "Abdullah.NumberSystem.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Abdullah.NumberSystem.Tests/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Abdullah.NumberSystem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
